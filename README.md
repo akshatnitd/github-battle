@@ -13,12 +13,12 @@ It is implemented using ReactJS.
 
 ### Screenshots
 
-![alt tag]('https://raw.githubusercontent.com/akshatnitd/github-battle/master/screenshots/1.jpg')
+![alt tag](https://raw.githubusercontent.com/akshatnitd/github-battle/master/screenshots/1.jpg)
 
-![alt tag]('https://raw.githubusercontent.com/akshatnitd/github-battle/master/screenshots/2.jpg')
+![alt tag](https://raw.githubusercontent.com/akshatnitd/github-battle/master/screenshots/2.jpg)
 
-![alt tag]('https://raw.githubusercontent.com/akshatnitd/github-battle/master/screenshots/3.jpg')
+![alt tag](https://raw.githubusercontent.com/akshatnitd/github-battle/master/screenshots/3.jpg)
 
-![alt tag]('https://raw.githubusercontent.com/akshatnitd/github-battle/master/screenshots/4.jpg')
+![alt tag](https://raw.githubusercontent.com/akshatnitd/github-battle/master/screenshots/4.jpg)
 
 Enjoy the battle !!!
