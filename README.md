@@ -1,7 +1,7 @@
 # github-battle
 ## A battle between two github users!
 
-It is implemented using ReactJS.
+It is a Progressive Web App implemented using ReactJS.
 
 ### To install packages:
 

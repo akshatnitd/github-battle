@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "production": "webpack -p",
-    "start": "webpack-dev-server"
+    "start": "webpack-dev-server",
+    "build": "webpack --config webpack.config.js"
   },
   "author": "Akshat Garg <coolakshat24@gmail.com> (http://akshatgarg.in)",
   "repository": {
