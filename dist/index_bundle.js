@@ -21493,17 +21493,17 @@
 	var ResultsContainer = __webpack_require__(291);
 
 	var routes = React.createElement(
-	  Router,
-	  { history: hashHistory },
-	  React.createElement(
-	    Route,
-	    { path: '/', component: Main },
-	    React.createElement(IndexRoute, { component: Home }),
-	    React.createElement(Route, { path: 'playerOne', header: 'Player One', component: PromptContainer }),
-	    React.createElement(Route, { path: 'playerTwo/:playerOne', header: 'Player Two', component: PromptContainer }),
-	    React.createElement(Route, { path: 'battle', component: ConfirmBattleContainer }),
-	    React.createElement(Route, { path: 'results', component: ResultsContainer })
-	  )
+		Router,
+		{ history: hashHistory },
+		React.createElement(
+			Route,
+			{ path: '/', component: Main },
+			React.createElement(IndexRoute, { component: Home }),
+			React.createElement(Route, { path: 'playerOne', header: 'Player One', component: PromptContainer }),
+			React.createElement(Route, { path: 'playerTwo/:playerOne', header: 'Player Two', component: PromptContainer }),
+			React.createElement(Route, { path: 'battle', component: ConfirmBattleContainer }),
+			React.createElement(Route, { path: 'results', component: ResultsContainer })
+		)
 	);
 
 	module.exports = routes;
